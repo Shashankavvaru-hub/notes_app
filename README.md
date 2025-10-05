@@ -55,6 +55,3 @@ A simple and intuitive React-based notes application that allows users to create
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is private and not licensed for public use.
