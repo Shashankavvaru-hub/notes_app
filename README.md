@@ -20,7 +20,7 @@ A simple and intuitive React-based notes application that allows users to create
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shashankavvaru-hub/notes_app.git
    cd notes-app
    ```
 
